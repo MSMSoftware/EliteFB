@@ -4,7 +4,7 @@ Servitec Elite FB (Falcon)
 Dispone de la versión libre de Servitec Falcon versión 1.5.0.300. En esta se incluyen las herramientas complementarias y el importador de datos desde versiones anteriores de Servitec (Elite 2011 y Elite XOT).
 
 Puede actualizar el driver de la base de datos a la última versión de Firebird 3.0 en: https://firebirdsql.org/en/server-packages/
-IMPORTANTE No actualice a FIrebird 4.0 o Firebird 5.0
+  (IMPORTANTE No actualice a Firebird 4.0 o Firebird 5.0).
 
 En la instalación dispone de los siguientes archivos:
 
@@ -16,7 +16,7 @@ BKPFirebird.exe - Programa alternativo de backup de Servitec.
 
 ConexionesFB.exe - Programa que le permite monitorizar las conexiones de Servitec activas en la red y en caso necesario, desconectar alguna de ellas.1
 
-EliteFB.ece - Ejecutable de la aplicación Servitec FB (Falcon).
+EliteFB.exe - Ejecutable de la aplicación Servitec FB (Falcon).
 
 EnlaceEliteFBConta3.exe - Programa de enlace de Servitec con el programa de contabilidad Conta3.
 
